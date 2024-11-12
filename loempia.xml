@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document [
+    <!ELEMENT Loempia (#PCDATA)>
+    <!ENTITY Alex "Software Security 2024/09 FOR THE WIN">
+]>
+<document>
+    <Loempia>&Alex;</Loempia>
+</document>
